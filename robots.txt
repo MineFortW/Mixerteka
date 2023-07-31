@@ -1,0 +1,6 @@
+Sitemap: https://mixerteka.everton.com/sitemap.xml
+User-agent: *
+Allow: https://mixerteka.everton.com/
+Allow: https://mixerteka.everton.com/de/de/
+Allow: https://mixerteka.everton.com/pl/pl/
+Allow: https://mixerteka.everton.com/ru/ru/
