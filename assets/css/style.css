@@ -310,7 +310,7 @@ input {
 }
 .menu-main a:hover:before, .menu-main .current:before {left: 0;}
 .menu-main a:hover:after, .menu-main .current:after {right: 0;}   
-@media (max-width: 550px) {
+@media (max-width: 800px) {
 .menu-main {padding-top: 0;}
 .menu-main li {display: block;}
 .menu-main li:after {content: none;}
@@ -320,7 +320,7 @@ input {
 }
 }
 
-/* UL Mobile fix */
+/* UL Mobile fix 
 
 @media (max-width: 767px) {
   .menu-main li {
@@ -332,4 +332,4 @@ input {
   .menu-main li {
     display: flex;
   }
-}
+} */
