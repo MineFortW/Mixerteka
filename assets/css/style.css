@@ -319,3 +319,17 @@ input {
   margin: 0 30px;
 }
 }
+
+/* UL Mobile fix */
+
+@media (max-width: 767px) {
+  ul {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  ul {
+    display: flex;
+  }
+}
