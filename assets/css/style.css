@@ -323,13 +323,13 @@ input {
 /* UL Mobile fix */
 
 @media (max-width: 767px) {
-  ul {
+  .menu-main li {
     display: block;
   }
 }
 
 @media (min-width: 768px) {
-  ul {
+  .menu-main li {
     display: flex;
   }
 }
