@@ -320,16 +320,3 @@ input {
 }
 }
 
-/* UL Mobile fix 
-
-@media (max-width: 767px) {
-  .menu-main li {
-    display: block;
-  }
-}
-
-@media (min-width: 768px) {
-  .menu-main li {
-    display: flex;
-  }
-} */
